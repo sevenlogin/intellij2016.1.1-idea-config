@@ -1,0 +1,37 @@
+<keymap version="1" name="Default for XWin copy copy" parent="Default for XWin">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="alt escape" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+</keymap>

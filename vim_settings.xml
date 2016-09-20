@@ -1,0 +1,320 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/opt/git/callcenter/callcenterServer/src/main/webapp/scripts/toolbardirect.js" timestamp="1470031314387">
+        <mark key="[" line="97" column="27" />
+        <mark key="]" line="98" column="24" />
+        <mark key="." line="98" column="13" />
+      </file>
+      <file name="/opt/git/HouseSOA/housesoa-server/src/main/resources/dao/fyb/readmappers/extend/sell/FybSellContactReadMapper.xml" timestamp="1470912772135">
+        <mark key="[" line="26" column="38" />
+      </file>
+      <file name="$USER_HOME$/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar!/org/apache/velocity/app/Velocity.class" timestamp="1469784337750">
+        <mark key="'" line="5" column="0" />
+      </file>
+      <file name="/opt/git/HouseCenterWeb/src/main/java/com/manyi/housecenter/web/controller/lanlord/HouseController.java" timestamp="1472129461648">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="14" />
+      </file>
+      <file name="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/controller/fybsell/FybSellCheckController.java" timestamp="1470818179872">
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="165" column="26" />
+        <mark key="." line="165" column="26" />
+      </file>
+      <file name="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/controller/check/CheckSellOuterController.java" timestamp="1470968537047">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" timestamp="1469674019550">
+        <mark key="'" line="1147" column="43" />
+      </file>
+      <file name="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/fybsell/FybSellCheckServiceImpl.java" timestamp="1470973878966">
+        <mark key="[" line="655" column="32" />
+        <mark key="]" line="531" column="7" />
+        <mark key="." line="531" column="7" />
+        <mark key="^" line="531" column="7" />
+      </file>
+      <file name="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/landlord/fybsell/detail.vm" timestamp="1471600224905">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="519" column="92" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="520" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="526" column="47" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="530" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="542" column="42" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="546" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="552" column="41" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="556" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="564" column="44" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="570" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="589" column="32" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="596" column="23" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="597" column="15" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="604" column="24" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="503" column="63" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="504" column="38" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="188" column="36" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="340" column="8" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/pay/PayServiceImpl.java" />
+      <jump line="0" column="0" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/pay/PayServiceImpl.java" />
+      <jump line="2" column="0" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/pay/PayServiceImpl.java" />
+      <jump line="48" column="13" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/common/CommonNewServiceImpl.java" />
+      <jump line="220" column="74" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/resources/spring/spring-bean.xml" />
+      <jump line="230" column="85" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/resources/spring/spring-bean.xml" />
+      <jump line="47" column="12" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/user/UserOperatedDeviceLogServiceImpl.java" />
+      <jump line="217" column="62" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/user/UserNewServiceImpl.java" />
+      <jump line="157" column="0" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/user/UserNewServiceImpl.java" />
+      <jump line="150" column="21" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/user/UserNewServiceImpl.java" />
+      <jump line="147" column="45" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/user/UserNewServiceImpl.java" />
+      <jump line="95" column="8" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sell/AudioSellRecheckServiceImpl.java" />
+      <jump line="331" column="31" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="287" column="102" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="145" column="77" filename="/opt/git/HouseCenterWeb/src/main/java/com/manyi/housecenter/web/controller/sell/AudioSellRecheckController.java" />
+      <jump line="332" column="32" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="510" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="396" column="63" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="509" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="115" column="35" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="51" column="20" filename="/opt/git/IWAgentContract/src/main/webapp/WEB-INF/tpl/queryContract.vm" />
+      <jump line="470" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="240" column="15" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="508" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="55" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="47" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/sellrecheck/detail.vm" />
+      <jump line="461" column="27" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="87" column="16" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="66" column="0" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/resources/generatorConfig.xml" />
+      <jump line="85" column="33" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/controller/check/TaskAllController.java" />
+      <jump line="11" column="23" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="50" column="32" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/common/toolbarIframe.vm" />
+      <jump line="21" column="25" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sys/EmployeeServiceImpl.java" />
+      <jump line="0" column="0" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sys/EmployeeServiceImpl.java" />
+      <jump line="50" column="108" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sys/EmployeeServiceImpl.java" />
+      <jump line="30" column="4" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sys/EmployeeServiceImpl.java" />
+      <jump line="47" column="58" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/house/AreaNewServiceImpl.java" />
+      <jump line="61" column="41" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="310" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="0" column="0" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="466" column="9" filename="/opt/git/HouseCenterWeb/src/main/webapp/WEB-INF/tpl/sell/audiosellrecheck/detail.vm" />
+      <jump line="34" column="13" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/recheckorder/TraceServiceImpl.java" />
+      <jump line="64" column="46" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/recheckorder/TraceServiceImpl.java" />
+      <jump line="43" column="13" filename="/opt/git/HouseCenterWeb/src/main/java/com/manyi/housecenter/web/controller/sell/QualityCheckController.java" />
+      <jump line="78" column="8" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="171" column="31" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="172" column="24" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="186" column="31" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="187" column="24" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="323" column="29" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="337" column="29" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="234" column="38" filename="/opt/git/FYBSOA/FYBSOAServer/pom.xml" />
+      <jump line="70" column="4" filename="/opt/git/mls/src/main/resources/spring/spring.xml" />
+      <jump line="145" column="8" filename="/opt/git/mls/src/main/resources/spring/spring.xml" />
+      <jump line="226" column="170" filename="/opt/git/mls/src/main/resources/spring/spring.xml" />
+      <jump line="26" column="8" filename="/opt/git/fybAppserver/pom.xml" />
+      <jump line="427" column="0" filename="/opt/git/fybAppserver/pom.xml" />
+      <jump line="414" column="19" filename="/opt/git/mls/src/main/resources/spring/spring.xml" />
+      <jump line="86" column="42" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/report/user/UserCrmReportServiceImpl.java" />
+      <jump line="395" column="46" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/report/user/UserCrmReportServiceImpl.java" />
+      <jump line="0" column="0" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/report/user/UserCrmReportServiceImpl.java" />
+      <jump line="110" column="86" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/java/com/manyi/housecenter/server/serviceimpl/sell/SellRecheckServiceImpl.java" />
+      <jump line="0" column="0" filename="/opt/git/JiaizhaiSOA/JiaizhaiSOAServer/src/main/resources/mybatis/dao/contract/writemappers/mbg/host/HostContractMapper.xml" />
+      <jump line="80" column="21" filename="/opt/git/HouseCenterSOA/HouseCenterServer/pom.xml" />
+      <jump line="458" column="0" filename="/opt/git/HouseCenterSOA/HouseCenterServer/pom.xml" />
+      <jump line="236" column="33" filename="/opt/git/JiaizhaiSOA/JiaizhaiSOAServer/src/main/resources/mybatis/dao/contract/readmappers/extend/host/HostContractReadMapper.xml" />
+      <jump line="56" column="12" filename="/opt/git/HouseSOA/housesoa-server/pom.xml" />
+      <jump line="197" column="12" filename="/opt/git/FYBSOA/FYBSOAServer/src/main/java/com/manyi/fybsoa/server/serviceimpl/pay/PayServiceImpl.java" />
+      <jump line="36" column="13" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/controller/report/UserReportController.java" />
+      <jump line="77" column="18" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/onekeyoutcall/TianRunCallServiceImpl.java" />
+      <jump line="45" column="13" filename="/opt/git/fybAppserver/src/main/java/com/manyi/hims/allnew/serviceimpl/common/CommonNewServiceImpl.java" />
+      <jump line="120" column="63" filename="/opt/git/HouseSOA/housesoa-server/src/main/java/com/manyi/housesoa/allnew/controller/sell/Release4sellController.java" />
+      <jump line="51" column="4" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/work/user/MyuserService.java" />
+      <jump line="299" column="20" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/work/user/MyuserServiceImpl.java" />
+      <jump line="128" column="4" filename="/opt/git/HouseCenterSOA/HouseCenterServer/src/main/resources/spring/spring-bean.xml" />
+      <jump line="1441" column="35" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="231" column="7" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="107" column="34" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/work/user/MyuserServiceImpl.java" />
+      <jump line="1435" column="1" filename="/opt/git/fybcrm/fybcrmServer/src/main/java/com/manyi/fyb/crm/service/work/user/MyuserServiceImpl.java" />
+      <jump line="1147" column="43" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checksell/CheckSellServiceImpl.java" />
+      <jump line="718" column="25" filename="/opt/git/callcenter/callcenterServer/src/main/java/com/manyi/fyb/callcenter/service/check/checktask/CheckServiceImpl.java" />
+      <jump line="21" column="14" filename="$USER_HOME$/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar!/org/apache/velocity/app/Velocity.class" />
+      <jump line="5" column="0" filename="$USER_HOME$/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar!/org/apache/velocity/app/Velocity.class" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IHJlc3BvbnNlLnNldEF0dHJpYnV0ZSgidmlkZW8iLCB2aWRlb1BsYXlNb2RlbC5nZXRTdGFuZGFyZFBsYXlVcmwoKSk=</text>
+      </register>
+      <register name="/" type="4">
+        <text>checkClient</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtb25seWJvcmRlci1vcmFuZ2UiPuS9oOWlveWPkeWkp+W5heW6puWcsOaWueWcsOaWuTwvc3Bhbj4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>weeeeeeeewwwweewwweeeeeewwwweeeeeewwwwewwwwwwwwwwwwwwwwjjjjjwwwwwwwwkkjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjkkkj</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHJlc3BvbnNlLnNldEF0dHJpYnV0ZSgidmlkZW8iLCB2aWRlb1BsYXlNb2RlbC5nZXRTdGFuZGFyZFBsYXlVcmwoKSk=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtZGFuZ2VyIj5EYW5nZXI8L3NwYW4+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtd2FybmluZyI+V2FybmluZzwvc3Bhbj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtaW5mbyI+SW5mbzwvc3Bhbj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtc3VjY2VzcyI+U3VjY2Vzczwvc3Bhbj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtcHJpbWFyeSI+UHJpbWFyeTwvc3Bhbj4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtZGVmYXVsdCI+RGVmYXVsdDwvc3Bhbj4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>sp2</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>checkClient</last-search>
+      <last-offset />
+      <last-pattern>checkClient</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>agentSoa</entry>
+        <entry>agentSOA</entry>
+        <entry>submit</entry>
+        <entry>小区</entry>
+        <entry>jjrId</entry>
+        <entry>放呀un</entry>
+        <entry>房源基础</entry>
+        <entry>table</entry>
+        <entry>hidden</entry>
+        <entry>第三方</entry>
+        <entry>toobar.do</entry>
+        <entry>toobar</entry>
+        <entry>sale</entry>
+        <entry>mobile</entry>
+        <entry>properties</entry>
+        <entry>disconf</entry>
+        <entry>HouseSoa</entry>
+        <entry>housesoa</entry>
+        <entry>houseimage</entry>
+        <entry>checkClient</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vspilit</entry>
+        <entry>q!</entry>
+        <entry>only</entry>
+        <entry>fd</entry>
+        <entry>/account</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry>11</entry>
+        <entry>vsplite</entry>
+        <entry>vsplit</entry>
+        <entry>w2</entry>
+        <entry>2</entry>
+        <entry>1</entry>
+        <entry>w1</entry>
+        <entry>sq 2</entry>
+        <entry>sp2</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
