@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for XWin mine" parent="Default for XWin">
+  <action id="ExportToTextFile" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>
